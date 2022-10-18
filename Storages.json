@@ -1,0 +1,20 @@
+{
+    "storages": {
+        "slxusedevhwclock": "slx-use-dev-hw-rg",
+        "slxusedevhwdpscerts": "slx-use-dev-hw-rg",
+        "slxusedevhwenrich": "slx-use-dev-hw-rg",
+        "slxusedevhwtoiot": "slx-use-dev-hw-rg",
+        "slxuseqareldailyprocess": "slx-use-qarel-v6-mc-func-rg",
+        "slxuseqareloptinrfunc": "slx-use-qarel-v6-mc-func-rg",
+        "slxuseqarelsendsmsfunc": "slx-use-qarel-v6-mc-func-rg",
+        "slxuseqarelsmsarchivefu": "slx-use-qarel-v6-mc-func-rg",
+        "slxuseqarelsmsprocessfu": "slx-use-qarel-v6-mc-func-rg",
+        "slxuseqarelsmswebhookfu": "slx-use-qarel-v6-mc-func-rg",
+        "slxuseqarelstatusproces": "slx-use-qarel-v6-mc-func-rg",
+        "slxuseqarelstatuswebhoo": "slx-use-qarel-v6-mc-func-rg"
+    },
+    "PersonalStorage": {
+        "storageaccountpuffer1": "RG2",
+        "storageaccountpuffer2": "RG3"
+    }
+}
